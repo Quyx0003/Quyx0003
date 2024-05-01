@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 Currently working on improving my programming skills.<br><br>👯 Open to collaborating on small fun software projects.<br><br>🤝 Seeking help with advanced programming techniques.<br><br>🌱 Currently learning new programming languages and frameworks.<br><br>💬 Ask me about programming, algorithms, or software development!<br><br>⚡ Fun fact: The first computer programmer was Ada Lovelace in the 19th century.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/quyx0003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quytai-van-nguyen-9a842b24a/) 
 
